@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    background-color: #AF6B58;
+    }
+
+    section {
+        border: solid #556052 3px;
+        border-radius: 10px;
+       
+        text-align: center;
+        box-shadow: 3px 5px #af563d;
+    
+    }
+
+    select{
+        background-color: #f2efea;
+        text-align: center;
+        border:#AF6B58 solid 2px;
+        border-radius: 10px;
+       
+    }
+    option{
+        text-align: center;
+       
+    }
+
+    footer {
+        text-align: center;
+     background-color: #AF6B58;
+    }
