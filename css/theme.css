@@ -1,0 +1,62 @@
+@media screen and (min-width:480px)and (max-width:960px){
+    #a{
+
+        background-color: coral;
+    }
+    #b{
+    
+        background-color: chartreuse;
+    }
+    #c{
+        background-color: blue;
+    }
+    #d{
+        background-color:gray; 
+    }
+    #e{
+        background-color: brown;
+    }
+    #f{  
+        background-color:lightcoral;
+    }
+    #g{
+        background-color:lightgreen;
+    }
+    #h{
+        background-color: lightpink;
+    }
+    #i{
+        background-color: darkcyan;
+    }
+}
+@media screen and (min-width:320px)and (max-width:480px){
+    #a{
+
+        background-color: rgb(203, 255, 80);
+    }
+    #b{
+    
+        background-color: rgb(255, 51, 0);
+    }
+    #c{
+        background-color: rgb(255, 0, 221);
+    }
+    #d{
+        background-color:rgb(128, 128, 128); 
+    }
+    #e{
+        background-color: rgb(97, 165, 42);
+    }
+    #f{  
+        background-color:rgb(128, 208, 240);
+    }
+    #g{
+        background-color:rgb(144, 238, 210);
+    }
+    #h{
+        background-color: rgb(61, 23, 78);
+    }
+    #i{
+        background-color: rgb(15, 22, 22);
+    }
+}
